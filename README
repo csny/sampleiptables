@@ -6,6 +6,8 @@
 
 
 2.動作環境
+内向き非公開サーバ
+
 OS
 [root@centos opt]# cat /etc/redhat-release
 CentOS release 6.5 (Final)
