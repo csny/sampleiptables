@@ -57,5 +57,6 @@ COMMIT
 
 1.コマンド入力（テーブル初作成時やユーザ定義のチェインを作るときなど）
 2.vi /etc/sysconfig/iptables
-3.サービス再起動
-4.service iptables save
+3.:wq
+4.サービス再起動
+5.service iptables save
