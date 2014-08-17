@@ -60,5 +60,5 @@ COMMIT
 1.コマンド入力（テーブル初作成時やユーザ定義のチェインを作るときなど）
 2.vi /etc/sysconfig/iptables
 3.:wq
-4.サービス再起動
-5.service iptables save
+4.サービス再起動（編集したファイルをメモリ上に吸い上げるため）
+5.service iptables save（書式統一）
